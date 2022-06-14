@@ -1,0 +1,27 @@
+.grid-container {
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+
+a :hover {
+    color:palevioletred;
+}
+
+.subheading {
+    font-style: italic;
+}
+
+h1 {
+    color:lightsteelblue;
+}
+
+.navbar-brand {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+footer {
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
